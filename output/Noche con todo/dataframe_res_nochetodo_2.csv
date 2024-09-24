@@ -1,0 +1,41 @@
+"";"Iteración 1";"Iteración 2";"Iteración 3"
+"(Intercept)";0;0;0
+"temperatura_exterior";1,0267588651095;0,0149683625560795;0,0160319761175102
+"radiacion_global_fachada";0,0367856841352089;-0,00586214751279989;-0,00540548194572714
+"energia_agua_refrigerada";20,9820963987546;-1,69730327917247;0,782408494670079
+"ocupantes_conteo_robus3";-0,229117307347676;0,0482731274947569;0,0511615539436833
+"temperatura_interior_1";NA;0,990072707722248;1,0406381916204
+"temperatura_exterior_1";NA;-0,00177808837787313;NA
+"radiacion_global_fachada_1";NA;0,547554098079669;0,621325966324685
+"energia_agua_refrigerada_1";NA;2,43251500552176;NA
+"ocupantes_conteo_robus3_1";NA;-0,0696149982955173;-0,0759330556926233
+"temperatura_interior_2";NA;NA;-0,0535589482795282
+"temperatura_exterior_2";NA;NA;NA
+"radiacion_global_fachada_2";NA;NA;-0,00143829952880997
+"energia_agua_refrigerada_2";NA;NA;NA
+"ocupantes_conteo_robus3_2";NA;NA;0,0054572185332847
+"temperatura_interior_3";NA;NA;NA
+"temperatura_exterior_3";NA;NA;NA
+"radiacion_global_fachada_3";NA;NA;NA
+"energia_agua_refrigerada_3";NA;NA;NA
+"ocupantes_conteo_robus3_3";NA;NA;NA
+"temperatura_interior_4";NA;NA;NA
+"temperatura_exterior_4";NA;NA;NA
+"radiacion_global_fachada_4";NA;NA;NA
+"energia_agua_refrigerada_4";NA;NA;NA
+"ocupantes_conteo_robus3_4";NA;NA;NA
+"temperatura_interior_5";NA;NA;NA
+"temperatura_exterior_5";NA;NA;NA
+"radiacion_global_fachada_5";NA;NA;NA
+"energia_agua_refrigerada_5";NA;NA;NA
+"ocupantes_conteo_robus3_5";NA;NA;NA
+"temperatura_interior_6";NA;NA;NA
+"temperatura_exterior_6";NA;NA;NA
+"radiacion_global_fachada_6";NA;NA;NA
+"energia_agua_refrigerada_6";NA;NA;NA
+"ocupantes_conteo_robus3_6";NA;NA;NA
+"R2";0,997963359126322;0,999920194012073;0,999920443058059
+"MAE";1,02740814868989;0,165263970004869;0,164986147051036
+"Media residuales";0,0460623703109121;0,000943156338658977;0,00100503510259511
+"Desviación típica residuales";1,23211303711994;0,244103525762704;0,243757511151883
+"Número de variables";4;9;10

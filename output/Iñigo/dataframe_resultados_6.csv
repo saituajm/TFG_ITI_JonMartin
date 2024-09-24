@@ -1,0 +1,41 @@
+"";"Iteración 1";"Iteración 2";"Iteración 3";"Iteración 4";"Iteración 5"
+"(Intercept)";27,1353808229913;3,62521711106436;4,32836087818881;4,0884844022309;3,76926460578467
+"ocupantes_conteo_robus3";-0,00568525930303283;NA;NA;NA;NA
+"temperatura_exterior";0,00583750362372415;NA;NA;NA;NA
+"energia_agua_refrigerada";-0,0579385259291673;NA;NA;NA;NA
+"radiacion_global_fachada";0,00232354612294847;0,000715068551025739;0,000529184496577461;0,00067043299629717;0,00066667510226767
+"temperatura_interior_1";NA;0,867402616307701;1,04345259021248;1,06335977046941;1,07043960831663
+"ocupantes_conteo_robus3_1";NA;NA;NA;NA;NA
+"temperatura_exterior_1";NA;NA;NA;NA;NA
+"energia_agua_refrigerada_1";NA;NA;NA;NA;NA
+"radiacion_global_fachada_1";NA;-0,000536119668416314;-0,000142897368887021;-0,000444366137565527;-0,000458540753571456
+"temperatura_interior_2";NA;NA;-0,201763543569702;-0,314355836760429;-0,315754949200586
+"ocupantes_conteo_robus3_2";NA;NA;NA;NA;NA
+"temperatura_exterior_2";NA;NA;NA;NA;NA
+"energia_agua_refrigerada_2";NA;NA;NA;NA;NA
+"radiacion_global_fachada_2";NA;NA;-0,000182457976929701;NA;NA
+"temperatura_interior_3";NA;NA;NA;0,101401870740148;0,11001727883552
+"ocupantes_conteo_robus3_3";NA;NA;NA;NA;NA
+"temperatura_exterior_3";NA;NA;NA;NA;NA
+"energia_agua_refrigerada_3";NA;NA;NA;NA;NA
+"radiacion_global_fachada_3";NA;NA;NA;NA;NA
+"temperatura_interior_4";NA;NA;NA;NA;-0,00264104894453305
+"ocupantes_conteo_robus3_4";NA;NA;NA;NA;NA
+"temperatura_exterior_4";NA;NA;NA;NA;NA
+"energia_agua_refrigerada_4";NA;NA;NA;NA;NA
+"radiacion_global_fachada_4";NA;NA;NA;NA;NA
+"temperatura_interior_5";NA;NA;NA;NA;NA
+"ocupantes_conteo_robus3_5";NA;NA;NA;NA;NA
+"temperatura_exterior_5";NA;NA;NA;NA;NA
+"energia_agua_refrigerada_5";NA;NA;NA;NA;NA
+"radiacion_global_fachada_5";NA;NA;NA;NA;NA
+"temperatura_interior_6";NA;NA;NA;NA;NA
+"ocupantes_conteo_robus3_6";NA;NA;NA;NA;NA
+"temperatura_exterior_6";NA;NA;NA;NA;NA
+"energia_agua_refrigerada_6";NA;NA;NA;NA;NA
+"radiacion_global_fachada_6";NA;NA;NA;NA;NA
+"R2";0,159259767186498;0,796698118861342;0,801721053971663;0,799827157287287;0,803137851506608
+"MAE";0,330149551036128;0,143133566102771;0,138182970504057;0,138250107404122;0,136916773670676
+"Media residuales";-2,58504224908689e-17;-2,01263430834459e-17;-1,63383326105526e-17;-3,64890479790947e-18;1,71904468474236e-18
+"Desviación típica residuales";0,41795776575232;0,203515188147052;0,198935065656041;0,197846350323526;0,195907836064889
+"Número de variables";5;4;6;6;7

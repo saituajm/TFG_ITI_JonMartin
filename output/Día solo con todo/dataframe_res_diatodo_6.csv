@@ -1,0 +1,41 @@
+"";"Iteración 1";"Iteración 2";"Iteración 3";"Iteración 4";"Iteración 5"
+"(Intercept)";26,4532113453592;3,32997432314164;3,74579942096086;3,44406078431684;3,35637842495555
+"temperatura_exterior";0,0290877694800579;0,0140209138142866;0,00920456366786361;0,00890692140727672;0,00846562681840311
+"radiacion_global_fachada";0,00184451757045082;0,000741018947248299;0,000600848351251273;0,000741078196730511;0,00076174218218499
+"energia_agua_refrigerada";-0,0429372870377792;NA;NA;NA;NA
+"ocupantes_conteo_robus3";0,00439867125565342;NA;NA;NA;NA
+"temperatura_interior_1";NA;0,866919366856812;1,0629521873351;1,08648141975812;1,07723870192292
+"temperatura_exterior_1";NA;-0,00449339980531628;NA;NA;NA
+"radiacion_global_fachada_1";NA;-0,000432576100186808;-0,000297761263153449;-0,000426195854092232;-0,000411909318106016
+"energia_agua_refrigerada_1";NA;NA;NA;NA;NA
+"ocupantes_conteo_robus3_1";NA;NA;NA;NA;NA
+"temperatura_interior_2";NA;NA;-0,210347626069197;-0,362741644085211;-0,342198159848216
+"temperatura_exterior_2";NA;NA;NA;NA;NA
+"radiacion_global_fachada_2";NA;NA;-5,94568416064067e-05;NA;NA
+"energia_agua_refrigerada_2";NA;NA;NA;NA;NA
+"ocupantes_conteo_robus3_2";NA;NA;NA;NA;NA
+"temperatura_interior_3";NA;NA;NA;0,139791648555142;0,0695867957810534
+"temperatura_exterior_3";NA;NA;NA;NA;NA
+"radiacion_global_fachada_3";NA;NA;NA;NA;NA
+"energia_agua_refrigerada_3";NA;NA;NA;NA;NA
+"ocupantes_conteo_robus3_3";NA;NA;NA;NA;NA
+"temperatura_interior_4";NA;NA;NA;NA;0,062398226486667
+"temperatura_exterior_4";NA;NA;NA;NA;NA
+"radiacion_global_fachada_4";NA;NA;NA;NA;NA
+"energia_agua_refrigerada_4";NA;NA;NA;NA;NA
+"ocupantes_conteo_robus3_4";NA;NA;NA;NA;NA
+"temperatura_interior_5";NA;NA;NA;NA;NA
+"temperatura_exterior_5";NA;NA;NA;NA;NA
+"radiacion_global_fachada_5";NA;NA;NA;NA;NA
+"energia_agua_refrigerada_5";NA;NA;NA;NA;NA
+"ocupantes_conteo_robus3_5";NA;NA;NA;NA;NA
+"temperatura_interior_6";NA;NA;NA;NA;NA
+"temperatura_exterior_6";NA;NA;NA;NA;NA
+"radiacion_global_fachada_6";NA;NA;NA;NA;NA
+"energia_agua_refrigerada_6";NA;NA;NA;NA;NA
+"ocupantes_conteo_robus3_6";NA;NA;NA;NA;NA
+"R2";0,243022615130045;0,853275148978998;0,860793123863581;0,863970541194882;0,864643926960508
+"MAE";0,283119677305391;0,200135502645174;0,262907861232823;0,303699930594792;0,33581034968628
+"Media residuales";-2,63161685824605e-17;2,49669268895365e-18;9,19921587986801e-18;-2,84564253710304e-19;-1,30146709387041e-17
+"Desviación típica residuales";0,350832672803151;0,154458003985428;0,150448867719497;0,148721947819441;0,148353382470198
+"Número de variables";5;6;7;7;8
